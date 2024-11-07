@@ -1,1 +1,0 @@
-Wokwi design for TinyTapeout
