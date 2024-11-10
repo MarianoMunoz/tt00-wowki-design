@@ -1,6 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Wokwi Project Template
+# My First Tiny Tapeout Wokwi Project
+Using gate logic drawn in Wokwi to generate sequences on the development boards 7 segment display.
 
 - [Read the documentation for project](docs/info.md)
 
