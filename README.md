@@ -1,7 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
 # My First Tiny Tapeout Wokwi Project
-Using gate logic drawn in Wokwi to generate sequences on the development boards 7 segment display.
+Using gate logic drawn in Wokwi to generate number sequences on the development boards 7 segment display with flip flop counter.
 
 - [Read the documentation for project](docs/info.md)
 
